@@ -1,0 +1,46 @@
+{
+  "student": [
+    {
+      "rollno": 121,
+      "name": "jay",
+      "city": "bhopal",
+      "course": "java full stack",
+      "id": "6f72"
+    },
+    {
+      "id": "78b8",
+      "rollno": "121",
+      "name": "jay",
+      "city": "bhopal",
+      "course": "java"
+    },
+    {
+      "id": "654a",
+      "rollno": "15252",
+      "name": "jay",
+      "city": "bhopal",
+      "course": "phython"
+    },
+    {
+      "12222": "12222",
+      "id": "ada0",
+      "vikash sharma": "vikash sharma",
+      "beohari": "beohari",
+      "java": "java"
+    },
+    {
+      "12222": "12222",
+      "id": "ea1e",
+      "vikash sharma": "vikash sharma",
+      "beohari": "beohari",
+      "java": "java"
+    },
+    {
+      "12222": "12222",
+      "id": "6364",
+      "vikash sharma": "vikash sharma",
+      "beohari": "beohari",
+      "java": "java"
+    }
+  ]
+}

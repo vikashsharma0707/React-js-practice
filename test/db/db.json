@@ -1,0 +1,36 @@
+{
+  "customer": [
+    {
+      "productno": 23334,
+      "productqn": 6000,
+      "price": 1622,
+      "cname": "jay",
+      "prodeuctn": "book",
+      "id": "8236"
+    },
+    {
+      "id": "da22",
+      "empid": "7847",
+      "name": "jdd",
+      "": "jdd",
+      "dept": "jkdd",
+      "salary": "kd"
+    },
+    {
+      "id": "93df",
+      "productno": "dj",
+      "productqn": "kdk",
+      "price": "kdkwd",
+      "cname": "jay",
+      "prodeuctn": "kjdjk"
+    },
+    {
+      "id": "117a",
+      "productno": "12",
+      "productqn": "ijd",
+      "price": "8778",
+      "cname": "889",
+      "prodeuctn": "8"
+    }
+  ]
+}

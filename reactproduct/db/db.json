@@ -1,0 +1,101 @@
+
+{
+  "product":[
+    {
+      "id":1,
+      "name":"iphone",
+      "description":"This is Good Phone",
+      "price":120000,
+      "category":"iphone15",
+      "images":"j3.webp"
+    },
+    {
+      "id":2,
+      "name":"iphone11",
+      "description":"This is Good I Phone 11",
+      "price":6500,
+      "category":"iphone11",
+      "images":"j9.jpeg"
+    },
+    {
+      "id":3,
+      "name":"iphone11",
+      "description":"This is Good IPhone 11",
+      "price":45000,
+      "category":"iphone11",
+      "images":"j2.webp"
+    },
+    {
+      "id":4,
+      "name":"iphone12",
+      "description":"This is Good IPhone 12",
+      "price":78000,
+      "category":"iphone12",
+      "images":"j3.webp"
+    },
+    {
+      "id":5,
+      "name":"iphone12",
+      "description":"This is Good IPhone 12",
+      "price":89000,
+      "category":"iphone12",
+      "images":"j4.webp"
+    },
+    {
+      "id":6,
+      "name":"iphone13",
+      "description":"This is Good IPhone 13",
+      "price":10000,
+      "category":"iphone13",
+      "images":"j5.jpg"
+    },
+    {
+      "id":7,
+      "name":"iphone13",
+      "description":"This is Good IPhone 13",
+      "price":110000,
+      "category":"iphone13",
+      "images":"j6.jpg"
+    },
+    {
+      "id":8,
+      "name":"iphone14",
+      "description":"This is Good IPhone 14",
+      "price":130000,
+      "category":"iphone14",
+      "images":"j7.jpg"
+    },
+    {
+      "id":9,
+      "name":"iphone14",
+      "description":"This is Good IPhone 14",
+      "price":188000,
+      "category":"iphone14",
+      "images":"j8.avif"
+    },
+    {
+      "id":10,
+      "name":"iphone15",
+      "description":"This is Good Phone 15",
+      "price":150000,
+      "category":"iphone15",
+      "images":"j9.jpeg"
+    },
+    {
+      "id":11,
+      "name":"iphone15",
+      "description":"This is Good Phone15",
+      "price":180000,
+      "category":"iphone15",
+      "images":"j10.jpeg"
+    },
+    {
+      "id":12,
+      "name":"iphone14",
+      "description":"This is Good Phone 14",
+      "price":120000,
+      "category":"iphone14",
+      "images":"j11.webp"
+    }
+  ]
+}

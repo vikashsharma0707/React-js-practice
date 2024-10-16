@@ -1,0 +1,20 @@
+{
+  "employee": [
+    {
+      "empid": "101",
+      "name": "jay",
+      "desi": "hr",
+      "dept": "it",
+      "salary": "10000",
+      "id": "f102"
+    },
+    {
+      "id": "648e",
+      "empid": "11",
+      "name": "ms",
+      "": "sdd",
+      "dept": "dd",
+      "salary": "10000"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "product":[
+
+         {
+           "id":1,
+            "name":"Kids",
+            "description":"this is a red color good top",
+            "price":1000,
+            "catrgory":"Kids",
+            "images":"card1.avif"
+
+
+         },
+
+         {
+            "id":2,
+             "name":"Sports shoes",
+             "description":"this is a red color good top",
+             "price":1500,
+             "catrgory":"mens",
+             "images":"card2.avif"
+ 
+ 
+          },
+
+          {
+            "id":3,
+             "name":"Sports shoes",
+             "description":"this is a red color good top",
+             "price":500,
+             "catrgory":"mens",
+             "images":"card3.avif"
+ 
+ 
+          },
+
+          {
+            "id":4,
+             "name":"Sports shoes",
+             "description":"this is a red color good top",
+             "price":1000,
+             "catrgory":"mens",
+             "images":"card4.avif"
+ 
+ 
+          },
+
+          {
+            "id":5,
+             "name":"Sports shoes",
+             "description":"this is a red color good top",
+             "price":500,
+             "catrgory":"mens",
+             "images":"card5.avif"
+ 
+ 
+          },
+
+          {
+            "id":6,
+             "name":"Sports shoes",
+             "description":"this is a red color good top",
+             "price":1500,
+             "catrgory":"mens",
+             "images":"card6.avif"
+ 
+ 
+          },
+
+          {
+            "id":7,
+             "name":"Sports shoes",
+             "description":"this is a red color good top",
+             "price":2500,
+             "catrgory":"mens",
+             "images":"card7.avif"
+ 
+ 
+          },
+
+          {
+            "id":8,
+             "name":"Sports shoes",
+             "description":"this is a red color good top",
+             "price":1000,
+             "catrgory":"mens",
+             "images":"card10.avif"
+ 
+ 
+          },
+
+          {
+            "id":9,
+             "name":"Sports shoes",
+             "description":"this is a red color good top",
+             "price":2000,
+             "catrgory":"mens",
+             "images":"card9.webp"
+ 
+ 
+          },
+
+          {
+            "id":1,
+             "name":"Sports shoes",
+             "description":"this is a red color good top",
+             "price":1000,
+             "catrgory":"mens",
+             "images":"card10.avif"
+ 
+ 
+          }
+
+         
+
+
+
+
+
+  ]
+
+
+
+}
